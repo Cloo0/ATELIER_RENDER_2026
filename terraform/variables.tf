@@ -10,3 +10,7 @@ variable "render_owner_id" {
 variable "image_url" {
   type = string
 }
+
+variable "image_tag" {
+  type = string
+}
