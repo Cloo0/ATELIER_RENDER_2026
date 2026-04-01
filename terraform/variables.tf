@@ -14,3 +14,6 @@ variable "image_url" {
 variable "image_tag" {
   type = string
 }
+variable "db_url{
+  type = string
+}
