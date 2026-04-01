@@ -50,6 +50,7 @@ resource "render_web_service" "adminer" {
   env_vars = {
     ADMINER_DEFAULT_SERVER = {
       value = var.db_url
+      DATABASE_URL = { value = var.db_url }
     }
   }
 }
