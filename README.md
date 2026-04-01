@@ -51,11 +51,11 @@ Difficulté : Faible (~10 minutes)
 ---------------------------------------------------
 Procédez à la modification de ce README.md (ex: Mon NOM Prénom ici) et Commitez. La création du Service Web Render est automatique.  
 
-<img width="2150" height="616" alt="image" src="https://github.com/user-attachments/assets/7254a9c4-1bc7-4338-b25e-cad8259d396b" />  
+<img width="1206" height="292" alt="image" src="https://github.com/user-attachments/assets/50cb089b-736d-4b22-bf1d-deafd7beadfa" />
 
 Vous pouvez cliquez sur votre URL est observez le résultat.  
   
-<img width="2048" height="224" alt="image" src="https://github.com/user-attachments/assets/fd03a614-93b6-4416-869c-f8a737b272e2" />
+<img width="1206" height="292" alt="image" src="https://github.com/user-attachments/assets/694f89a4-a141-4d25-bac3-1d79a2e0f4fa" />
 
 ### Explication de votre environnement Render 
 * Une image Docker déposée dans GHCR (espace de stockage des images Docker de GitHUb) est utilisée par Render pour créer un Web Service, qui exécute alors un container et expose une application via une URL publique.
