@@ -17,3 +17,6 @@ variable "image_tag" {
 variable "db_url"{
   type = string
 }
+variable "db_host" {
+  type = string
+}
