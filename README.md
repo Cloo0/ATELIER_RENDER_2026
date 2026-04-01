@@ -51,7 +51,7 @@ Difficulté : Faible (~10 minutes)
 ---------------------------------------------------
 Procédez à la modification de ce README.md (ex: Mon NOM Prénom ici) et Commitez. La création du Service Web Render est automatique.  
 
-<img width="1206" height="292" alt="image" src="https://github.com/user-attachments/assets/50cb089b-736d-4b22-bf1d-deafd7beadfa" />
+<img width="482" height="292" alt="image" src="https://github.com/user-attachments/assets/921ac3cb-25a8-46a5-9012-dfa5f9156799" />
 
 Vous pouvez cliquez sur votre URL est observez le résultat.  
   
