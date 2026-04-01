@@ -104,3 +104,4 @@ jobs:
             -var="image_tag=${IMAGE_TAG}" \
             -var="github_actor=${ACTOR}"
         working-directory: terraform
+        
