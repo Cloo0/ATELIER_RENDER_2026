@@ -103,6 +103,7 @@ jobs:
             -var="image_url=${IMAGE_URL}" \
             -var="image_tag=${IMAGE_TAG}" \
             -var="github_actor=${ACTOR}"\
-            -var="db_url=${{ secrets.DB_URL }}"
+            -var="db_url=${{ secrets.DB_URL }}"\
+            -var="db_host=${{ secrets.DB_HOST }}"
         working-directory: terraform
         
