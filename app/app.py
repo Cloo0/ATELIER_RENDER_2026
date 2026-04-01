@@ -1,6 +1,8 @@
 from flask import Flask
 import os
 
+database_url = os.getenv("DATABASE_URL")
+
 app = Flask(__name__)
 
 @app.route("/")
